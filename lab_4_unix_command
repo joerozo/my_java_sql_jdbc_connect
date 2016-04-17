@@ -1,0 +1,1 @@
+[jrozo@unix1 lab4]$ java -classpath ~/cs180/labs/lab4/postgresql-9.4.1208.jar:. Driver
